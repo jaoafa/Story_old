@@ -1,3 +1,3 @@
 # Story
 
-[See](https://jaoafa.github.io/Story)
+[Channel(Story) List](https://github.com/jaoafa/Story/wiki)
